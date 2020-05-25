@@ -1,0 +1,22 @@
+{
+  "name": "understanding-typescript",
+  "version": "1.0.0",
+  "description": "Understanding TypeScript Course Setup",
+  "main": "app.js",
+  "homepage": "https://alphakex2.github.io/dragdrop",
+  "scripts": {
+    "compile": "tsc -w",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "typescript",
+    "dragdrop"
+  ],
+  "author": "Kenny D",
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "cross-env": "^5.2.0",
+    "gh-pages": "^1.2.0",
+    "parcel-bundler": "^1.9.7"
+  }
+}
